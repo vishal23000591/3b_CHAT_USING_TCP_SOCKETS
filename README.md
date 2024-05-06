@@ -1,4 +1,7 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
+## NAME: Vishal S
+## REGISTER NUMBER: 212223110063
+
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
